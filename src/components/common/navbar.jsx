@@ -108,9 +108,9 @@ const navListItems = [
     to: "/",
   },
   {
-    label: "A Integrafoods",
+    label: "A Quality",
     icon: TrophyIcon,
-    to: "/integrafoods",
+    to: "/quality",
   },
   {
     label: "Area de atuação",
@@ -166,7 +166,7 @@ export function ComplexNavbar() {
           href="/"
           className="mr-4 ml-2 cursor-pointer py-1.5 font-medium"
         >
-          Integra <i className="bi bi-egg-fill"></i> Foods
+          Quality <i className="bi bi-egg-fill"></i> Foods
         </Typography>
         <div className="hidden lg:block">
           <NavList />

@@ -12,7 +12,7 @@ export function CarouselWithContent() {
               color="white"
               className="mb-4 text-3xl md:text-4xl lg:text-5xl"
             >
-              Integra Foods
+              Quality Foods
             </Typography>
             <Typography
               variant="lead"
@@ -33,7 +33,7 @@ export function CarouselWithContent() {
               color="white"
               className="mb-4 text-3xl md:text-4xl lg:text-5xl"
             >
-              Integra Foods
+              Quality Foods
             </Typography>
             <Typography
               variant="lead"
@@ -54,7 +54,7 @@ export function CarouselWithContent() {
               color="white"
               className="mb-4 text-3xl md:text-4xl lg:text-5xl"
             >
-              Integra Foods
+              Quality Foods
             </Typography>
             <Typography
               variant="lead"

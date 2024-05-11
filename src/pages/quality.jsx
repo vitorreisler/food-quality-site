@@ -31,7 +31,7 @@ const About = () => {
             alt=""
           />
           <article className="sm:w-full lg:w-[400px]">
-            A Integra é uma empresa de consultoria em segurança de alimentos e
+            A Quality é uma empresa de consultoria em segurança de alimentos e
             buscamos além de garantir a qualidade da cadeia de processos que
             envolve o alimento deste a sua saída do campo até o consumidor
             final, garantir que haja entendimento da importância das etapas e
